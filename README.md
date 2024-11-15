@@ -8,7 +8,7 @@
 5. **Cyiza Kayitare Sabine** - 24801
 6. **Adolphe Uwayo** - 25743
 7. **Gatete Bertrand** - 25958
-8. **Niyonkuru Valenes** - 25097
+8. **Niyonkuru Valens** - 25097
 9. **Manzi Munyambanza Darius** - 25491
 10. **Hirwa Clement Rhodin** - 25787
 11. **Karungi Rebecca** - 26681
