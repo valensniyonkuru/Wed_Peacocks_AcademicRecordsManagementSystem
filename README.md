@@ -12,11 +12,15 @@
 9. **Manzi Munyambanza Darius** - 25491
 10. **Hirwa Clement Rhodin** - 25787
 11. **Karungi Rebecca** - 26681
----
+8. **Niyonkuru Valens** - 25097
+9. **Manzi Munyambanza Darius** - 25491
+10. **Hirwa Clement Rhodin** - 25787
+11. **Karungi Rebecca** - 26681
+
 
 ## Project Overview
 The Academic Records Management System (ARMS) is designed to streamline and centralize academic data management within educational institutions, providing reliable and secure data handling. The primary goal of ARMS is to improve efficiency, accessibility, and accuracy of academic records for students, instructors, and administrators.
----
+
 ## Project Phases Summary
 
 ### Phase 2: Business Process Modeling
